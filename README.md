@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a undergraduate student at Xi'an Jiaotong University (XJTU) majoring in Automation.
-My Email address is <a href="mailto:palpitate@stu.xjtu.edu.cn">palpitate@stu.xjtu.edu.cn</a>.
+I am currently a fist-year PHD student at CRIPAC, Institute of Automation, Chinese Academy of Sciences (CASIA)!
+My Email address is <a href="mailto:wangyanbo2023@ia.ac.cn">mailto:wangyanbo2023@ia.ac.cn</a>.
