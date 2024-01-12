@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am currently a fist-year PHD student at CRIPAC, Institute of Automation, Chinese Academy of Sciences (CASIA)!
-My Email address is <a href="mailto:wangyanbo2023@ia.ac.cn">mailto:wangyanbo2023@ia.ac.cn</a>.
+
+My Email address is <a href="mailto:wangyanbo2023@ia.ac.cn">wangyanbo2023@ia.ac.cn</a>.
