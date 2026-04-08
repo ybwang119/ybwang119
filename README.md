@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a second-year phD student at NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA)!
+I am currently a third-year phD student at NLPR, Institute of Automation, Chinese Academy of Sciences (CASIA)!
 
 My Email address is <a href="mailto:wangyanbo2023@ia.ac.cn">wangyanbo2023@ia.ac.cn</a>.
